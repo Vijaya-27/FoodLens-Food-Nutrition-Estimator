@@ -95,7 +95,3 @@ streamlit run app.py
 - Multiple food detection in a single image.
 
 ---
-
-B.Tech Computer Science Engineering
-
-Deep Learning | Machine Learning | Data Analytics
